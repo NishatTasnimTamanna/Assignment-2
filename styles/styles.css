@@ -69,20 +69,14 @@ li a {
 }
 
 .Heading img {
-    padding-left: 240px;
-    padding-right: 240px;
-    padding-bottom: 45px;
-    width: 1440px;
-    height: 700px;
-    left: 240px;
-    top: 577px;
-    border-radius: 5px;
+    padding-bottom: 50px;
 }
 
 .group-details {
     display: flex;
     gap: 50px;
-    padding: 100px 240px;
+    padding-top: 100px;
+    padding-left: 240px;
 }
 
 .group {
@@ -118,11 +112,12 @@ li a {
     display: flex;
     gap: 100px;
     padding-left: 240px;
+    padding-top: 100px;
 }
 
 .archi {
     width: 700px;
-    height: 900px;
+    height: 1000px;
 }
 
 #btn-2 {
