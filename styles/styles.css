@@ -9,7 +9,7 @@
 
 .nav {
     display: inline-flex;
-    gap: 900px;
+    gap: 200px;
     padding-left: 240px;
     padding-top: 45px;
 }
@@ -70,6 +70,7 @@ li a {
 
 .Heading img {
     padding-bottom: 50px;
+    width:1000px;
 }
 
 .group-details {
