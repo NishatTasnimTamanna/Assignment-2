@@ -77,7 +77,7 @@ li a {
     display: flex;
     gap: 20px;
     padding-top: 100px;
-    padding-left: 100px;
+    padding-left: 80px;
 }
 
 .group {
@@ -129,7 +129,7 @@ li a {
     text-align: center;
     position: relative;
     top: -120px;
-    right:-100px;
+    right:-80px;
 
 }
 
@@ -147,7 +147,7 @@ li a {
     height: 130px;
     width: 200px;
 }
-}
+
 
 #vertical-line {
     background-color: white;
@@ -247,7 +247,7 @@ footer {
     background: #FFF4E7;
     border-radius: 8px;
     text-align: center;
-    padding: 20px 150px;
+    padding: 20px 100px;
     margin:100px 150px;
     color: #424242;
 }
