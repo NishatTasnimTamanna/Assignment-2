@@ -9,7 +9,7 @@
 
 .nav {
     display: inline-flex;
-    gap: 200px;
+    gap: 400px;
     padding-left: 200px;
     padding-top: 45px;
 }
@@ -77,7 +77,7 @@ li a {
     display: flex;
     gap: 50px;
     padding-top: 100px;
-    padding-left: 150px;
+    padding-left: 100px;
 }
 
 .group {
@@ -116,7 +116,7 @@ li a {
 .feature-description {
     display: flex;
     gap: 100px;
-    padding-left: 150px;
+    padding-left: 100px;
     padding-top: 100px;
 }
 
@@ -175,7 +175,7 @@ li a {
 }
 
 .facts {
-    padding-left: 150px;
+    padding-left: 100px;
 
 }
 
@@ -239,14 +239,14 @@ li a {
     
 }
 .spotify{
-    padding-left: 150px;
+    padding-left: 100px;
 }
 
 footer {
     background: #FFF4E7;
     border-radius: 8px;
     text-align: center;
-    padding: 20px 240px;
+    padding: 20px 150px;
     margin:100px 150px;
     color: #424242;
 }
