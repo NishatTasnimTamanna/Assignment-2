@@ -251,3 +251,48 @@ footer {
     margin:100px 150px;
     color: #424242;
 }
+/* ---------------------
+Media queries 
+------------------------*/
+/* Mobile Devices */
+@media only screen and (max-width:688px) {
+    
+    .Heading{
+        padding:0;
+        padding:0;
+    }
+    .nav{
+        gap:20px;
+    }
+    .nav ul{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .Heading img{
+        height:150px;
+        width:300px;
+    }
+    .group-details{
+        display: grid;
+        grid-template-columns: repeat(1,1fr 0.5fr);
+        padding-top: 10px;
+    }
+    .archi{
+        width:400px;
+        height: 600px;
+    }
+    .main{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+    }
+    .button-2{
+        position: relative;
+        left: 350px;
+        top:-300px;
+    }
+    footer{
+        margin:0;
+        padding:0;
+    }
+    }
+}
