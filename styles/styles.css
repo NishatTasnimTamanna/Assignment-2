@@ -75,7 +75,7 @@ li a {
 
 .group-details {
     display: flex;
-    gap: 50px;
+    gap: 20px;
     padding-top: 100px;
     padding-left: 100px;
 }
@@ -129,7 +129,7 @@ li a {
     text-align: center;
     position: relative;
     top: -120px;
-    right:100px;
+    right:-100px;
 
 }
 
