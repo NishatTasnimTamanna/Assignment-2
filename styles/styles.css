@@ -115,7 +115,7 @@ li a {
 
 .feature-description {
     display: flex;
-    gap: 100px;
+    gap: 70px;
     padding-left: 100px;
     padding-top: 100px;
 }
@@ -129,6 +129,7 @@ li a {
     text-align: center;
     position: relative;
     top: -120px;
+    right:100px;
 
 }
 
@@ -175,7 +176,7 @@ li a {
 }
 
 .facts {
-    padding-left: 100px;
+    padding-left: 80px;
 
 }
 
@@ -239,7 +240,7 @@ li a {
     
 }
 .spotify{
-    padding-left: 100px;
+    padding-left: 80px;
 }
 
 footer {
