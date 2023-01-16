@@ -85,6 +85,10 @@ li a {
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
+.group img{
+    height:340px;
+    width:340px;
+}
 
 .features {
     padding-top: 260px;
@@ -118,13 +122,14 @@ li a {
 
 .archi {
     width: 700px;
-    height: 1000px;
+    height: 980px;
 }
 
 #btn-2 {
     text-align: center;
     position: relative;
-    top: -100px;
+    top: -120px;
+
 }
 
 .btn {
@@ -184,7 +189,7 @@ li a {
     text-align: center;
     height: 200px;
     width: 200px;
-    margin-right: 100px;
+    margin-right: 90px;
 }
 
 .box:hover {
@@ -211,7 +216,6 @@ li a {
 }
 
 .last-one {
-    padding-left: 240px;
     padding-top: 100px;
     text-align: center;
 }
@@ -230,7 +234,11 @@ li a {
 }
 
 .sponsor li {
-    padding-right: 80px;
+    padding-right: 60px;
+    
+}
+.spotify{
+    padding-left: 240px;
 }
 
 footer {
